@@ -1,0 +1,17 @@
+.SPcontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.NewThought {
+  background-color: #03a9f4;
+  height: 50px;
+  color: white;
+  width: 75%;
+}
+
+.header {
+  color: #03a9f4;
+}
